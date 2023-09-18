@@ -1,4 +1,4 @@
-package college;
+package LocalRepo;
 
 import java.util.*;
 
